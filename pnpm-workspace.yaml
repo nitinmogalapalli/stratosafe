@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - '@clerk/shared'
+  - '@prisma/client'
+  - '@prisma/engines'
+  - argon2
+  - prisma
+  - sharp
